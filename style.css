@@ -1,0 +1,24 @@
+.title{text-align: center;
+color: red;}
+
+body{background-color: lightblue;}
+
+table, th, td {border: 2px solid;
+background-color: white;
+padding: 2px;
+border-radius: 3%;}
+
+td{text-align: center;}
+
+.paragrafo{font-size: 120%;
+text-align:justify;}
+
+.imagem{border-radius: 10%;}
+
+.link{font-size: 120%;}
+.link :hover{color: red;}
+
+.lista  li{ background-color: azure;
+    margin-bottom: 12px;} 
+
+
